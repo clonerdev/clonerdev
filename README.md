@@ -6,7 +6,7 @@
 </a>
 <h2 align='center'>Contact Me</h2>
 <a href="https://www.instagram.com/akarimi_official">
-  <img align="left" alt="My Instagram" width="21px" src="instagram.png"/>
+  <img align="left" alt="My Instagram" width="30px" src="instagram.png"/>
 </a>
 </body>
 </html>
