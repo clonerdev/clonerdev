@@ -2,7 +2,7 @@
 <h1 align='center'>Hi, I'm Ali Karimi</h1>
 
 # 👨‍💻 About Me:
- I’m currently working on NedayeWEB<br>🌱 Always learning php, javascript, python
+🔭 I’m currently working on NedayeWEB<br>🌱 Always learning php, javascript, python
 
 
 ## 🌐 Socials:
@@ -17,7 +17,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=clonerdev&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=clonerdev&icon=0&color=0)](https://visitcount.itsvg.in)
-
