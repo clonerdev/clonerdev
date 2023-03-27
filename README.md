@@ -1,8 +1,8 @@
 
 <h1 align='center'>Hi, I'm Ali Karimi</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on NedayeWEB<br>🌱 Always learning php, javascript, python<br>📫 contact with me engineeralikarimi@gmail.com
+# 👨‍💻 About Me:
+ I’m currently working on NedayeWEB<br>🌱 Always learning php, javascript, python
 
 
 ## 🌐 Socials:
