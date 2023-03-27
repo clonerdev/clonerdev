@@ -1,4 +1,6 @@
-<center>
+
+<h1 align='center'>Hi, I'm Ali Karimi</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on NedayeWEB<br>🌱 Always learning php, javascript, python<br>📫 contact with me engineeralikarimi@gmail.com
 
@@ -18,4 +20,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=clonerdev&icon=0&color=0)](https://visitcount.itsvg.in)
-</center>
+
