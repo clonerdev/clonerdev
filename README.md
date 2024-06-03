@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ali Karimi</h1>
-<h3 align="center">A Passionate Full-Stack Developer and Tech Enthusiast</h3>
+<h3 align="center">A Passionate Developer and Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=clonerdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,18 +9,13 @@
 ## 🚀 About Me
 
 - 🌟 Full-Stack Developer with a focus on web technologies and cloud computing.
-- 🌱 Currently enhancing my skills in **PHP, JavaScript, and Python**.
-- 🔭 Working on exciting projects at **NedayeWEB**.
-- 💬 Let's talk about **web development, cloud architecture, and open-source**.
-- 📫 Reach me at [ali.karimi@example.com](mailto:ali.karimi@example.com).
+- 💬 Let's talk about **web development, cloud architecture, and open-source**!😊
 
 ## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.instagram.com/akarimi_official" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://twitter.com/akarimiofficial" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/alikarimi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/clonerdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ## 🛠️ Tech Stack
@@ -53,10 +48,4 @@
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=clonerdev&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-## 🐍 Snake Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/clonerdev/clonerdev/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
