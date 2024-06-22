@@ -6,7 +6,7 @@
       <td style="vertical-align: middle; text-align: center;">
         <div>
           <h1>Hi, I'm Ali Karimi</h1>
-          <h3>A Passionate Developer and Tech Enthusiast</h3>
+          <h3>Passionate developer and interested in technology👨‍💻☕️</h3>
           <br>
           <div  align = "center">
             <img src="https://komarev.com/ghpvc/?username=clonerdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
