@@ -1,14 +1,26 @@
 ![](https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/header.png)
 
-<h1 align="center">Hi, I'm Ali Karimi</h1>
-<h3 align="center">A Passionate Developer and Tech Enthusiast</h3>
+<table align = "center">
+    <tr>
+      <!-- Cell for text and profile views -->
+      <td style="vertical-align: middle; text-align: center;">
+        <div>
+          <h1>Hi, I'm Ali Karimi</h1>
+          <h3>A Passionate Developer and Tech Enthusiast</h3>
+          <br>
+          <div  align = "center">
+            <img src="https://komarev.com/ghpvc/?username=clonerdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+            <img src="https://img.shields.io/github/followers/clonerdev?label=Followers" alt="GitHub Followers" />
+          </div>
+        </div>
+      </td>
+      <!-- Cell for image -->
+      <td style="vertical-align: middle;">
+        <img alt="programming" width="400" src="https://raw.githubusercontent.com/clonerdev/clonerdev/main/media/programmer.gif">
+      </td>
+    </tr>
+</table>
 
-<p align="center"><img align="center" alt="programming" width="400" src="https://raw.githubusercontent.com/clonerdev/clonerdev/main/media/programmer.gif"></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=clonerdev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/clonerdev?label=Followers" alt="GitHub Followers" />
-</p>
 
 ## 🚀 About Me
 - 🌟 Developer focusing on **web technologies** and **cloud computing**.🖥💻📱🌐
@@ -37,7 +49,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=clonerdev">
   <img src = "https://github-readme-stats.vercel.app/api?username=clonerdev&show_icons=true&line_height=40">
 </p>
-</details>
 
 ## 🏆 GitHub Trophies
 <p align="left">
